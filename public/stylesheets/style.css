@@ -1,0 +1,40 @@
+      body {
+          margin-top: 30px;
+      }
+
+      .centerText {
+          text-align: center
+      }
+
+      .h1-style {
+          text-align: center;
+          margin-bottom: 65px;
+          font-size: 65px;
+      }
+
+      .well span {
+          font-weight: bold;
+      }
+
+      .welcome-message {
+          font-size: 40px;
+      }
+
+      #chatArea {
+          display: none;
+      }
+      
+      /*Login Form*/
+      #loginArea {
+          position: absolute;
+          left: 50%;
+          top: 40%;
+          transform: translate(-50%, -50%);
+          width: 100%;
+      }
+
+      #loginArea .btn {
+          display: block;
+          margin: 0 auto;
+          margin-top: 15px;
+      }
